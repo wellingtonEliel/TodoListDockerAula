@@ -1,7 +1,7 @@
 ### **🛠 Atividade Prática: Criando um To-Do List Monolítico**
 📌 **Objetivo:** Criar um sistema simples de cadastro de tarefas com funcionalidades de **adicionar, editar, excluir e marcar como concluído**.
 
-#### **👨‍💻 Tecnologias recomendadas (depende do nível dos alunos)**
+#### **👨‍💻 Tecnologias recomendadas**
 - **Stack básica:** HTML, CSS, JavaScript (para frontend) + Python (Flask) ou Node.js (Express) para o backend.  
 - **Banco de dados:** SQLite (simples e não precisa de configuração extra).  
 
